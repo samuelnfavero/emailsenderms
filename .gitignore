@@ -10,11 +10,11 @@ src/main/resources/application.properties
 .apt_generated
 .classpath
 .factorypath
-*.project
+.project
 .settings
 .springBeans
 .sts4-cache
-.properties
+*.properties
 
 ### IntelliJ IDEA ###
 .idea
